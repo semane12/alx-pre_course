@@ -1,9 +1,2 @@
 #!/bin/bash
-echo School >> school
-cat school
-
-
-cd .
-clear
-echo echo School
-echo School
+The school is open!
